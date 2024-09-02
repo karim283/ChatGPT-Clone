@@ -5,7 +5,7 @@ export const Login = () => {
   const navigate = useNavigate();
 
   const handleContinue = () => {
-    navigate("sittings");
+    navigate("/start");
   };
 
   return (
