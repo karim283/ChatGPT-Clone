@@ -7,7 +7,7 @@ import enlarge from "./../../assets/images/enlarge.png";
 import logout from "./../../assets/images/logout.png";
 import contrast from "./../../assets/images/contrast.png";
 // import flash from "./../../assets/images/flash.png";
-import limitations from "./../../assets/images/limitations.png";
+// import limitations from "./../../assets/images/limitations.png";
 import send2 from "./../../assets/images/send2.png";
 
 export const Start = () => {
@@ -93,7 +93,7 @@ export const Start = () => {
           </div>
           <div>
             <img
-              src={limitations}
+              src={plus}
               alt=""
               className="w-6 h-6 flex justify-center items-center ml-[108px]"
             />
